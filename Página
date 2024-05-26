@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investigacion</title>
+    <link rel="stylesheet" href="./CSS/Tablas.css">
+</head>
+<body>
+    <header>
+        <h1>La usibilidad web</h1>
+    </header>
+
+<main>
+    <section>
+        <article>
+            <h1>¿Qué es la usibilidad web?</h1>
+            <blockquote>
+                <p>La usibilidad web se podría definir en simples palabras en las características que hacen de una página <br>
+                web sea sencilla de usar para las personas que la visitan, donde este busca que elementos como su diseño, <br>
+            como se presenta al usuario, la organización de la información y su funcionamiento sea lo más amigable posible con el usuario. <br>
+        <span>Maria C.</span></p>
+            </blockquote>
+            <img src="https://disenowebakus.net/imagenes/articulos/usabilidad-web.jpg" width="250" height="150">
+        </article>
+    </section>
+    <section>
+        <article>
+            <h1>¿Porqué es importante?</h1>
+            <p>La importancia de la usabilidad en un sitio web es crucial para esta ya que si este es muy complicada de utilizar, su información no sea accesible o incluso <br>
+            si esta es difícil de navegar provocando que muy probablemente la persona abandone la página para buscar otra mas fácil de utilizar.Por esto es muy importante la usabilidad <br>
+        en un sitio web ya que sería mucho más probable que el usuario se quedara en la página si esta fuera mas ordenada y con su información a la mano facilmente para el usuario. <br>
+    <span>Sebastian G.</span> </p>
+
+    <img src="https://st.depositphotos.com/1654249/1946/i/450/depositphotos_19469673-stock-photo-3d-man-thinking-with-red.jpg" width="250" height="200">
+        </article>
+    </section>
+    <section>
+        <article>
+            <h1>Principios de la usabilidad web</h1>
+            <p>Entre los diez principios que existen de la usabilidad web encuentro más importantes los siguientes: </p>
+            <ol>
+                <li>Visibilidad del estado del sistema:  <br>
+                Este principio nos quiere decir que si el usuario realizó alguna acción este deba recibir algún tipo de respuesta visual para indicarle si lo que hizo tendrá una respuesta de la página.</li>
+                <li>Similitud con el mundo real: <br>
+                Aquí lo que se quiere dar a ver es que la página debe tener un lenguaje sencillo por así decirlo, que sus palabras sean fáciles de leer pero también los simbolos o imagenes sean fáciles de entender.</li>
+                <li>Libertad de acción <br>
+                Lo más destacable de aquí es que es importante que la página le de el control al usuario de sus propias acciones además de controlar el sistema</li>
+                <li>Estandares: <br>
+                Son ciertos modelos o diseños que se utilizan en páginas especificas las cuales el usuario ya está acostumbrado a ver en cierta estructura</li>
+                <li>Prevencion de errores: <br>
+                La prevension de los errores es importante en la mayoria de los casos porque ayuda a prevenir que ciertas acciones del propio usuario provoque un mal funcionamiento de la página y por ende entorpecer la experiencia del propio usuario</li>
+            </ol>
+            <p><span>Elena G. C.</span></p>
+        </article>
+        <article>
+            <table>
+                <thead>
+                    <tr>
+                        <th colspan="3">Principios</th>
+                    </tr>
+                    <tr>
+                        <th>
+                            Principio
+                        </th>
+                        <th>
+                            Ejemplo
+                        </th>
+                    </tr>
+                    
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Visibilidad del estado del sistema</td>
+                        <td >Una ventana de éxito para notificar al usuario</td>
+                    </tr>
+                    <tr>
+                        <td>Similitud del sistema con el mundo real</td>
+                        <td>Un icono de una X para salir o cancelar</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>Libertad de acción</td>
+                        <td>Permitir que el usuario deshaga una acción con un botón o gesto</td>
+                    </tr>
+                    <tr>
+                        <td>Estándares</td>
+                        <td>Colocar en una pagina web de compras un icono de carrito de compras</td>
+                    </tr>
+                    <tr>
+                        <td>Prevención de errores</td>
+                        <td>Un mensaje de error y un icono con un signo de exclamación indicando que lo que se hará podría producir un error</td>
+                    </tr>
+                </tbody>
+            </table>
+        </article>
+    </section>
+    <section>
+        <article>
+            <h1>Fuentes</h1>
+            <a href="https://blog.hubspot.es/website/que-es-usabilidad-web" target="_blank"> Más información de la usabilidad web</a> <br>
+            <a href="https://dossetenta.com/mejorando-la-experiencia-del-usuario-la-importancia-de-la-usabilidad-web/" target="_blank"> Información usada para deducir su importancia</a><br>
+            <a href="https://www.marketinet.com/blog/10-principios-usabilidad-web" target="_blank"> Principios de la usabilidad web</a> 
+        </article>
+    </section>
+</main>
+</body>
+</html>
